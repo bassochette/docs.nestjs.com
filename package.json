@@ -64,7 +64,7 @@
     "@angular/language-service": "9.0.0",
     "@types/jasmine": "3.5.3",
     "@types/jasminewd2": "2.0.8",
-    "@types/lodash": "4.14.149",
+    "@types/lodash": "4.14.191",
     "@types/marked": "0.7.2",
     "@types/node": "12.12.26",
     "@types/prismjs": "1.16.0",
